@@ -4,7 +4,7 @@
   </footer>
 </template>
 
-<script>
+<script scoped>
 export default {
   name: "TheFooter",
 };
