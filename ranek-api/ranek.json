@@ -1,0 +1,43 @@
+{
+  "usuario": [
+    {
+      "id": "emerson@code.com",
+      "email": "emerson@code.com",
+      "senha": "123",
+      "rua": "Rua Ali Perto",
+      "cep": "1843284893",
+      "numero": "93",
+      "estado": "PR",
+      "cidade": "Curitiba"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "SmartPhone",
+      "usuario_id": "emerson@code.com",
+      "preco": "2500",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch",
+      "nome": "SmartWatch",
+      "usuario_id": "emerson@code.com",
+      "preco": "3699",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartwatch.",
+      "fotos": null
+    }
+  ]
+}
