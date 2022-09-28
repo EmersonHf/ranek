@@ -40,8 +40,8 @@
       "fotos": null
     },
     {
-      "id": "notebook",
-      "nome": "Notebook",
+      "id": "notebook0",
+      "nome": "Notebook 0",
       "usuario_id": "emerson@code.com",
       "preco": "4999",
       "vendido": "false",
