@@ -146,6 +146,411 @@
       "vendido": "false",
       "descricao": "Esse é um novo notebook.",
       "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "SmartPhone",
+      "usuario_id": "emerson@code.com",
+      "preco": "2500",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch",
+      "nome": "SmartWatch",
+      "usuario_id": "emerson@code.com",
+      "preco": "3699",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartwatch.",
+      "fotos": null
+    },
+    {
+      "id": "notebook0",
+      "nome": "Notebook 0",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook10",
+      "nome": "Notebook 10",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook12",
+      "nome": "Notebook 12",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook13",
+      "nome": "Notebook 13",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "SmartPhone",
+      "usuario_id": "emerson@code.com",
+      "preco": "2500",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch",
+      "nome": "SmartWatch",
+      "usuario_id": "emerson@code.com",
+      "preco": "3699",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartwatch.",
+      "fotos": null
+    },
+    {
+      "id": "notebook0",
+      "nome": "Notebook 0",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook10",
+      "nome": "Notebook 10",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook12",
+      "nome": "Notebook 12",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook13",
+      "nome": "Notebook 13",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "SmartPhone",
+      "usuario_id": "emerson@code.com",
+      "preco": "2500",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "smartwatch",
+      "nome": "SmartWatch",
+      "usuario_id": "emerson@code.com",
+      "preco": "3699",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartwatch.",
+      "fotos": null
+    },
+    {
+      "id": "notebook0",
+      "nome": "Notebook 0",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook 3",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook5",
+      "nome": "Notebook 5",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook6",
+      "nome": "Notebook 6",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook7",
+      "nome": "Notebook 7",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook8",
+      "nome": "Notebook 8",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook9",
+      "nome": "Notebook 9",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook10",
+      "nome": "Notebook 10",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook12",
+      "nome": "Notebook 12",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "notebook13",
+      "nome": "Notebook 13",
+      "usuario_id": "emerson@code.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
     }
   ]
 }
