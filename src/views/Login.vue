@@ -11,7 +11,7 @@
         id="password"
         v-model="login.password"
       />
-      <button class="btn" @click="logar">Logar</button>
+      <button class="btn" @click.prevent="logar">Logar</button>
     </form>
     <p class="perdeu">
       <a href="/" target="_blank">Esqueceu a senha ? Clique aqui.</a>
@@ -36,7 +36,10 @@ export default {
     };
   },
   methods: {
-    logar() {},
+    logar() {
+      this.$store.dispatch("getUsuario", this.login.email);
+      this.$router.push({ name: "usuario" });
+    },
   },
 };
 </script>

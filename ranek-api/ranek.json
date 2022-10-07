@@ -2,6 +2,7 @@
   "usuario": [
     {
       "id": "emerson@code.com",
+      "nome": "Emerson",
       "email": "emerson@code.com",
       "senha": "123",
       "rua": "Rua Ali Perto",
@@ -9,6 +10,17 @@
       "numero": "93",
       "estado": "PR",
       "cidade": "Curitiba"
+    },
+    {
+      "id": "wil@code.com",
+      "nome": "wil",
+      "email": "wil@code.com",
+      "senha": "124",
+      "rua": "Rua Ali longe",
+      "cep": "1843284893",
+      "numero": "93",
+      "estado": "PR",
+      "cidade": "Rolandia"
     }
   ],
   "produto": [
