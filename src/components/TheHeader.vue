@@ -5,7 +5,7 @@
         <img src="@/assets/ranek.svg" alt="ranek" />
       </router-link>
       <router-link v-if="$store.state.login" to="/usuario" class="btn">{{
-        this.nome
+          this.nome
       }}</router-link>
       <router-link v-else class="btn" to="/login">Vender / Login</router-link>
     </nav>
