@@ -3,7 +3,11 @@ import Router from "vue-router";
 import Home from "./views/HomeView.vue";
 import Produto from "./views/Produto.vue";
 import Login from "./views/Login.vue";
-import Usuario from "./views/usuario/Usuario.vue";
+import UsuarioPage from "./views/usuario/UsuarioPage.vue";
+import UsuarioProdutos from "./views/usuario/UsuarioProdutos";
+import UsuarioComprasVue from "./views/usuario/UsuarioCompras.vue";
+import UsuarioVendasVue from "./views/usuario/UsuarioVendas.vue";
+import UsuarioEditarVue from "./views/usuario/UsuarioEditar.vue";
 
 Vue.use(Router);
 
@@ -30,8 +34,30 @@ export default new Router({
     },
     {
       path: "/usuario",
-      name: "UsuarioPage",
-      component: Usuario,
+      component: UsuarioPage,
+      name: "usuario",
+      children: [
+        {
+          path: "produtos",
+          name: "produtos",
+          component: UsuarioProdutos,
+        },
+        {
+          path: "compras",
+          name: "compras",
+          component: UsuarioComprasVue,
+        },
+        {
+          path: "vendas",
+          name: "vendas",
+          component: UsuarioVendasVue,
+        },
+        {
+          path: "editar",
+          name: "usuario-editar",
+          component: UsuarioEditarVue,
+        },
+      ],
       props: true,
     },
   ],

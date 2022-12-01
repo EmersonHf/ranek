@@ -50,13 +50,15 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 ul {
   grid-column: 1 / -1;
 }
+
 li {
   display: inline-block;
 }
+
 li a {
   padding: 2px 8px;
   border-radius: 2px;
