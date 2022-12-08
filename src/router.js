@@ -4,7 +4,7 @@ import Home from "./views/HomeView.vue";
 import Produto from "./views/Produto.vue";
 import Login from "./views/Login.vue";
 import UsuarioPage from "./views/usuario/UsuarioPage.vue";
-import UsuarioProdutos from "./views/usuario/UsuarioProdutos";
+import UsuarioProdutos from "./views/usuario/UsuarioProdutos.vue";
 import UsuarioComprasVue from "./views/usuario/UsuarioCompras.vue";
 import UsuarioVendasVue from "./views/usuario/UsuarioVendas.vue";
 import UsuarioEditarVue from "./views/usuario/UsuarioEditar.vue";
